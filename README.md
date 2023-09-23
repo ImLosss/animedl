@@ -10,7 +10,7 @@ Download anime release from 2023 onwards
 * Download & Instal NodeJS [`Click Here`](https://nodejs.org/en/download)
 
 ```bash
-git clone https://github.com/ilmanhdyt/ShiraoriBOT
+git clone https://github.com/ImLosss/animedl
 cd animedl
 npm install
 node index
