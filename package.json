@@ -1,0 +1,16 @@
+{
+  "name": "animedl",
+  "version": "1.0.0",
+  "description": "Download anime release from 2023 onwards (only subtitle indonesia)",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Ryan_syah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.4"
+  }
+}
